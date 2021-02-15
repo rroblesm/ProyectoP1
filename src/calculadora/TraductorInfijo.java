@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author R
+ * @author Ruben y Mingyar
  */
 public class TraductorInfijo {
 
